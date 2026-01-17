@@ -1,0 +1,7 @@
+{
+  "name": "Amine Coiffeur",
+  "description": "A premium barber appointment booking website with a modern black and gold aesthetic, supporting multi-barber and salon management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
